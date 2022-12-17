@@ -1,6 +1,6 @@
 ## ros2
 
-![test](https://github.com/Ohashi/mypkg/actions/workflows/test.yml/badge.svg)
+![test](https://github.com/Ohashi822/mypkg/actions/workflows/test.yml/badge.svg)
 
 ## このレポジトリについて
 * このソフトウェアパッケージは,ロボットシステム学を学習するためのものである．
@@ -13,7 +13,6 @@ $ git clone https://github.com/ryuichiueda/ros2_setup_scripts
 $ cd ros2_setup_scripts
 $ ./setup.bash
 $ source ~/.bashrc
-
 ```
 
 ## このパッケージのインストール方法
