@@ -17,7 +17,7 @@ $ source ~/.bashrc
 
 ## このパッケージのインストール方法
 ```
-$ git clone -b lesson10 https://github.com/Ohashi822/mypkg.git
+$ git clone -b dev https://github.com/Ohashi822/mypkg.git
 ```
 ## このパッケージの使用方法
  * 端末1
