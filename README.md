@@ -7,7 +7,7 @@
 
 * このソフトウェアパッケージでは,二つの端末を用いることで,ROS2でのパブリッシャーとサブスクライバーの通信を確認することができる．
 
-## ROS2のインストール方法
+## ROS2のインストール方法 
 ```
 $ git clone https://github.com/ryuichiueda/ros2_setup_scripts
 $ cd ros2_setup_scripts
